@@ -38,6 +38,7 @@ namespace Day1
             }
 
             Console.WriteLine($"Frequency part 2: {frequency}");
+            Console.ReadLine();
         }
     }
 }
